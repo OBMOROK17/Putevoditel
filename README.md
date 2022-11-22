@@ -9,10 +9,11 @@
 -Наличие телефона;<br/>
 -Наличие на устройстве пользователя браузера.<br/>
 <h2>Изображение сайта:</h2> <br/>
-![Фото](https://user-images.githubusercontent.com/98474041/203419446-e0576f01-22d3-4056-809d-90cdd8955fe1.PNG)
+![image](https://user-images.githubusercontent.com/98474041/203419820-bff243a9-1c2a-4afd-a54c-41bb6e3ba06f.png)
+
 <h2>Как запустить:</h2> <br/>
 Нужно перейти по данной ссылке : https://obmorok17.github.io/Putevoditel/<br/>
-<h2>Сделат с помощью:</h2> <br/>
+<h2>Сделан с помощью:</h2> <br/>
 -HTML<br/>
 -JS<br/>
 -CSS<br/>
